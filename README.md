@@ -1,7 +1,7 @@
 
 <h3 align="center">Hi 👋, I'm Alp Kaan AKIN</h3>
 
-<h3 align="center">A Junior Full-Stack Developer from Turkey</h3>
+<h3 align="center"> Cloud Engineer from Turkey</h3>
 
 </br>
 
