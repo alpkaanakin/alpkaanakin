@@ -1,16 +1,5 @@
 <div align="center">
 
-```bash
-$ whoami
-alp-kagan-akin
-
-$ role
-Co-Founder @ Softvia
-
-$ mission
-Build scalable systems for high-growth brands
-```
-
 # Hey, I'm Alp Kağan ⚡️  
 <i>I build scalable web architectures for high-growth brands.</i>
 
